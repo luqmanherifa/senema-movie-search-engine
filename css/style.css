@@ -1,0 +1,187 @@
+* {
+  /* outline: 1px solid red; */
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #121212;
+}
+
+body {
+  background-color: #D3F0F4;
+}
+
+/* ----- Navbar ----- */
+.navbar {
+  height: 80px;
+}
+
+.navbar-logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.navbar-brand {
+  color: #111155;
+  font-family: "IBM Plex Sans";
+  font-weight: 700;
+  font-size: 19px;
+  margin-right: 40px;
+}
+
+.navbar-input {
+  background-color: #F4FEFF;
+  border: none;
+  height: 46px;
+  width: 341px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.navbar-input::placeholder {
+  color: #B5CDD0;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  font-weight: 500;
+}
+
+.navbar-btn {
+  background-color: #111155;
+  color: white;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 0 15px;
+  border: none;
+  letter-spacing: 0.3px;
+}
+
+.navbar-btn:hover {
+  background-color: #2828c7;
+  color: white;
+  border: none;
+}
+
+.navbar-btn:active {
+  background-color: #4e4edc !important;
+  color: white !important;
+  border: none !important;
+}
+
+.navlink-login {
+  margin-right: 20px;
+}
+
+.navlink-login, .navlink-register {
+  font-size: 16px;
+  font-weight: 700;
+  color: #111155;
+}
+
+.navlink-login:hover, .navlink-register:hover {
+  color: #2828c7;
+}
+
+/* ----- Hero ----- */
+.hero {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.hero-1 {
+  font-size: 50px;
+  font-family: "Dela Gothic One";
+  color: #111155;
+  letter-spacing: 1px;
+  line-height: 60px;
+}
+
+.hero-2 p {
+  font-weight: 500;
+  color: #64898E;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 20px;
+}
+
+/* ----- Card ----- */
+.card {
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.card-img {
+  border-radius: 5px;
+  margin-bottom: 10px;
+  /* width: 229px; */
+  height: 343px;
+  object-fit: cover;
+}
+
+.card-year {
+  color: #5A5A5A;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.card-title {
+  color: #121212;
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 4px;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+  width: 233px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-imdbid {
+  color: #959CA4;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.card-btn {
+  padding: 10px 75px;
+  background-color: #111155;
+  color: white;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  border: none;
+}
+
+.card-btn:hover {
+  background-color: #2828c7;
+  color: white;
+  border: none;
+}
+
+.card-btn:active {
+  background-color: #4e4edc !important;
+  color: white !important;
+  border: none !important;
+}
+
+/* ----- Modal ----- */
+.modal-title {
+  font-weight: 700;
+}
+
+.movie-title {
+  font-weight: 800;
+}
+
+.movie-style {
+  font-weight: 500;
+  margin-bottom: 0px;
+  color: #5A5A5A;
+}
+
+.movie-img {
+  border-radius: 5px;
+}
