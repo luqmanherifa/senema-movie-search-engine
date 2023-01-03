@@ -1,2 +1,2 @@
-# senema-movie-search-engine
+# Senema: Movie Search Engine
  
