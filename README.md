@@ -22,8 +22,8 @@ Tools
   - Figma
 
 Deployment
-  - GitHub Pages
-  - Vercel
+  - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
+  - [Vercel](https://senema-luqmanherifa.vercel.app)
 
 ## Design
 Font
