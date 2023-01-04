@@ -18,6 +18,7 @@ Library
 
 Tools
   - Visual Studio Code
+  - Postman
   - Figma
 
 Deployment
@@ -42,6 +43,7 @@ Color
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
 
 ## Thanks to
-  - [Sandhika Galih](https://github.com/sandhikagalih)
+  - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [Stack Overflow](https://stackoverflow.com)
   - [W3Schools](https://www.w3schools.com)
+  - [OMDb API](https://www.omdbapi.com)
