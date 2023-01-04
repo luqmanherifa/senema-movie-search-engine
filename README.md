@@ -44,6 +44,6 @@ Color
 
 ## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
+  - [OMDb API](https://www.omdbapi.com)
   - [Stack Overflow](https://stackoverflow.com)
   - [W3Schools](https://www.w3schools.com)
-  - [OMDb API](https://www.omdbapi.com)
