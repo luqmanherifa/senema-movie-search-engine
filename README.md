@@ -1,5 +1,5 @@
 # Senema: Movie Search Engine
-Senema is a web movie search engine contains movie information such as movie title, country, released, runtime, genre, director, actors, and plot. The project was developed for practicing API and JSON using HTML, CSS, and JavaScript programming.
+Senema is a web movie search engine contains movie information such as movie title, country, genre, director, actors, plot, and others. The project was developed for practicing API and JSON using HTML, CSS, and JavaScript programming.
 
 ## Display
 ![Display](https://luqmanherifa.site/images/imgsenema.png)
