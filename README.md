@@ -12,7 +12,6 @@ Programming
 
 Library
   - Google Fonts
-  - Font Awesome
   - Bootstrap
   - jQuery
 
