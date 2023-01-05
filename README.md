@@ -24,7 +24,7 @@ Deployment
   - [Vercel](https://senema-luqmanherifa.vercel.app)
   
 Date Created
-  - January 2023
+  - December 2023
 
 ## Design
 Font
