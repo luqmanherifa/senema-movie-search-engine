@@ -22,6 +22,9 @@ Tools
 Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
   - [Vercel](https://senema-luqmanherifa.vercel.app)
+  
+Date Created
+  - January 2023
 
 ## Design
 Font
