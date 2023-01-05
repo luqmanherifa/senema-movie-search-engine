@@ -10,9 +10,9 @@ Programming
   - JavaScript
 
 Library
-  - Google Fonts
   - Bootstrap
   - jQuery
+  - Google Fonts
 
 Tools
   - Visual Studio Code
