@@ -49,5 +49,3 @@ Senema is a web movie search engine contains movie information such as movie tit
 ## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [OMDb API](https://www.omdbapi.com)
-  - [Stack Overflow](https://stackoverflow.com)
-  - [W3Schools](https://www.w3schools.com)
