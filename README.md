@@ -4,38 +4,41 @@ Senema is a web movie search engine contains movie information such as movie tit
 ## Display
 ![Display](https://luqmanherifa.site/img/imgsenema.png)
 
-## Build
-Programming
+## Software
+### Language
   - HTML/CSS
   - JavaScript
 
-Library
+### Library
   - Bootstrap
   - jQuery
   - Google Fonts
 
-Tools
+### Tools
   - Visual Studio Code
   - Postman
-  - Figma
-
-Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
-  - [Vercel](https://senema-luqmanherifa.vercel.app)
-  
-Date Created
-  - December 2023
 
 ## Design
-Font
+### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   - [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
   - [Dela Gothic One](https://fonts.google.com/specimen/Dela+Gothic+One)
 
-Color
+### Color
   - ![#111155](https://placehold.co/20x20/111155/111155.png)  #111155
   - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
   - ![#D3F0F4](https://placehold.co/20x20/D3F0F4/D3F0F4.png)  #D3F0F4
+
+### Tools
+  - Figma
+
+## Build
+### Deployment
+  - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
+  - [Vercel](https://senema-luqmanherifa.vercel.app)
+  
+### Date Created
+  - December 2023
 
 ## Contact
   - [Email](mailto:luqmanherifa@gmail.com)
