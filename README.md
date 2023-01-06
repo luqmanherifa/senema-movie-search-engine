@@ -38,7 +38,7 @@ Senema is a web movie search engine contains movie information such as movie tit
   - [Vercel](https://senema-luqmanherifa.vercel.app)
   
 ### Date Created
-  - December 2023
+  - December 2022
 
 ## Contacts
   - [Email](mailto:luqmanherifa@gmail.com)
