@@ -9,6 +9,10 @@ body {
   background-color: #D3F0F4;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* ----- Navbar ----- */
 .navbar {
   height: 80px;
@@ -187,4 +191,23 @@ body {
 
 .movie-img {
   border-radius: 5px;
+}
+
+/* Footer */
+/* --- Footer --- */
+.footer {
+  padding: 100px 0 40px;
+}
+
+.footer-txt p {
+  display: flex;
+  justify-content: center;
+  color: #121212;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.footer-txt:hover p {
+  color: #111155;
 }
