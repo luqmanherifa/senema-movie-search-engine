@@ -60,13 +60,13 @@ a {
 }
 
 .navbar-btn:hover {
-  background-color: #2828c7;
+  background-color: #2828C7;
   color: white;
   border: none;
 }
 
 .navbar-btn:active {
-  background-color: #4e4edc !important;
+  background-color: #4E4EDC !important;
   color: white !important;
   border: none !important;
 }
@@ -82,7 +82,7 @@ a {
 }
 
 .navlink-login:hover, .navlink-register:hover {
-  color: #2828c7;
+  color: #2828C7;
 }
 
 /* ----- Hero ----- */
@@ -163,13 +163,13 @@ a {
 }
 
 .card-btn:hover {
-  background-color: #2828c7;
+  background-color: #2828C7;
   color: white;
   border: none;
 }
 
 .card-btn:active {
-  background-color: #4e4edc !important;
+  background-color: #4E4EDC !important;
   color: white !important;
   border: none !important;
 }
@@ -209,5 +209,5 @@ a {
 }
 
 .footer-txt:hover p {
-  color: #111155;
+  color: #2828C7;
 }
