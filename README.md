@@ -29,7 +29,7 @@ Senema is a web movie search engine contains movie information such as movie tit
   - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
   - ![#D3F0F4](https://placehold.co/20x20/D3F0F4/D3F0F4.png)  #D3F0F4
 
-- ### Tool
+- ### Tools
   - Figma
 
 ## Build
