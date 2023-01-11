@@ -10,9 +10,9 @@ Senema is a web movie search engine contains movie information such as movie tit
   - JavaScript
 
 - ### Libraries
+  - Google Fonts
   - Bootstrap
   - jQuery
-  - Google Fonts
 
 - ### Tools
   - Visual Studio Code
