@@ -36,7 +36,7 @@ Senema is a web movie search engine contains movie information such as movie tit
 - ### Platform
   - Web
 
-- ### Deployments
+- ### Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
   - [Vercel](https://senema-luqmanherifa.vercel.app)
 
@@ -46,7 +46,7 @@ Senema is a web movie search engine contains movie information such as movie tit
 - ### Date Created
   - December 2022
 
-## Socials
+## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
