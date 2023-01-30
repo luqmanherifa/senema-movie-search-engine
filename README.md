@@ -27,7 +27,6 @@ Senema is a movie search engine contains information about movie title, release 
 - ### Colors
   - ![#111155](https://placehold.co/20x20/111155/111155.png)  #111155
   - ![#D3F0F4](https://placehold.co/20x20/D3F0F4/D3F0F4.png)  #D3F0F4
-  - ![#121212](https://placehold.co/20x20/121212/121212.png)  #121212
 
 - ### Tools
   - Figma
