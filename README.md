@@ -42,7 +42,7 @@ Senema is a movie search engine contains information about movie title, release 
 - ### Responsive
   - Desktop
 
-- ### Date Created
+- ### Date created
   - December 2022
 
 ## Social
