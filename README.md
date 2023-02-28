@@ -37,7 +37,6 @@ Senema is a movie search engine contains information about movie title, release 
 
 - ### Deployment
   - [Vercel](https://senema-luqmanherifa.vercel.app)
-  - [GitHub Pages](https://luqmanherifa.github.io/senema-movie-search-engine)
 
 - ### Responsive
   - Desktop
